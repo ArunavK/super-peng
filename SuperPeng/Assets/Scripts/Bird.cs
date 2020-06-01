@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using CodeMonkey;
-using UnityEditorInternal;
 
 public class Bird : MonoBehaviour
 {
