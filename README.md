@@ -1,5 +1,5 @@
 # super-peng
-A flappy bird clone but using original artwork for the characters
+<h1>A flappy bird clone but using original artwork for the characters</h1>
 
 To Do:
 <ol>
@@ -15,4 +15,4 @@ To Do:
 <li>Main menu needs work</li>
 </ol>
 
-https://arunavk.github.io/super-peng/SuperPeng/Builds/WebGL/index.html for the WebGL build.
+Click <a href="https://arunavk.github.io/super-peng/SuperPeng/Builds/WebGL/index.html">here</a> for the WebGL build.
